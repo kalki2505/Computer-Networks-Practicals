@@ -1,0 +1,5 @@
+This is a sample file and aims at making the reader know about Command Line arguments.
+
+
+
+END OF SAMPLE FILE
